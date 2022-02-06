@@ -1,25 +1,27 @@
 {
-    "name": "Social-Network-API",
-    "version": "1.0.0",
-    "description": "Challenge 18: NoSQL",
-    "main": "server.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/nmendez4/social-network-api"
-    },
-    "keywords": [],
-    "author": "Nicholas E. Mendez",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/nmendez4/social-network-api/issues"
-    },
-    "homepage": "https://github.com/nmendez4/social-network-api#readme",
-    "dependencies": {
-        "express": "4.17.2",
-        "mongoose": "6.1.9",
-        "moment": "2.29.1"
-    }
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "Challenge 18: NoSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmendez4/social-network-api.git"
+  },
+  "keywords": [],
+  "author": "Nicholas E. Mendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmendez4/social-network-api/issues"
+  },
+  "homepage": "https://github.com/nmendez4/social-network-api#readme",
+  "dependencies": {
+    "express": "4.17.2",
+    "mongoose": "6.1.9",
+    "moment": "2.29.1"
+  },
+  "devDependencies": {}
 }
