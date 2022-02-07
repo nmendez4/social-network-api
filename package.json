@@ -20,8 +20,8 @@
   "homepage": "https://github.com/nmendez4/social-network-api#readme",
   "dependencies": {
     "express": "4.17.2",
-    "mongoose": "6.1.9",
-    "moment": "2.29.1"
-  },
-  "devDependencies": {}
+    "moment": "2.29.1",
+    "mongodb": "^4.3.1",
+    "mongoose": "6.1.9"
+  }
 }
